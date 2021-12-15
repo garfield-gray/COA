@@ -1,2 +1,3 @@
 # COA
-Cuckoo optimization Algorithm in Julia
+Cuckoo optimization Algorithm in Julia.
+
